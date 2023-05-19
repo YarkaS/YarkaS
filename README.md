@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello World!
 
-<!--
-**YarkaS/YarkaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Technology I am excited about:
+<p style="display:inline-block;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   width="30" height="30" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="30" height="30"/>
+       
+</p>  
 
-Here are some ideas to get you started:
+- Book of the month: <i>Cybernetics</i> (1948) by Norbert Wiener
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Public Repositories at a glance:
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarkaS&hide=contribs,stars&count_private=true&theme=react&show_icons=true) 
+
+- Languages at public repositories: 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YarkaS&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
