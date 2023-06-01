@@ -12,8 +12,6 @@
        
 </p>  
 
-- Book of the month: <i>Cybernetics</i> (1948) by Norbert Wiener
-
 - Public Repositories at a glance:
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarkaS&hide=contribs,stars&count_private=true&theme=react&show_icons=true) 
