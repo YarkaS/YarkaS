@@ -12,10 +12,10 @@
        
 </p>  
 
-- Public Repositories at a glance:
+<!-- - Public Repositories at a glance:
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YarkaS&hide=contribs,stars&count_private=true&theme=react&show_icons=true&hide_rank=true) 
-
+-->
 - Languages at public repositories: 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YarkaS&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
